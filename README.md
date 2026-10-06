@@ -27,6 +27,7 @@
     
 ##### - 4. Grouping and Aggregating Data:
    * Order Details table were duplicated by right clicking on the table, grouped as per the instruction via Home ribbon > "Group By" in Transform group > Advanced > Selected Category in the "Group" and mentioned the count, Average and Sum in the "Aggregation".
+   * likewise, the Sales Target table were duplicated and aggregated the total target amount. 
     
 #### 3. Data Modeling
   * Established relationship by dragging the "Order ID" field of "Orders Details" table to Order ID field of " List of Orders" table.
